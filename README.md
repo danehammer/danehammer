@@ -1,4 +1,4 @@
-### Master Document Shepherd
+### I like to solve problems, sometimes I write code to help with that
 
 <!--
 **danehammer/danehammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
