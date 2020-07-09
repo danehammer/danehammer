@@ -1,4 +1,4 @@
-### Hi there 👋
+### Master Document Shepherd
 
 <!--
 **danehammer/danehammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm not looking, per se, but if you've got an important problem to solve, that the world would be better for, I might be interested. Examples are electronic medical records and democratizing education. Buckets of money might be acceptable, too.
