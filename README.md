@@ -1,4 +1,4 @@
-### I like to solve problems, sometimes I write code to help with that
+### I want to know a little about EVERYTHING
 
 <!--
 **danehammer/danehammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm not looking, per se, but if you've got an important problem to solve, that the world would be better for, I might be interested. Examples are electronic medical records and democratizing education. Buckets of money might be acceptable, too.
+I'm at the beginning of a career shift. Or, probably? We'll see; the present creates the past. I've got significant breadth in technical roles. I've been a software engineer in a variety of functions, and managed other engineers a couple times, too. But this year I've been on a break and finding that I really enjoy the interpersonal aspects of work the most. I like collaborating, debating, and exploring. I'm also pretty damn good at talking, to both technical and non-technical audiences. So I'm currently looking for something that combines these: solutions architect, pre- or post-sales engineer, maybe a learning or education role? Yeah!
